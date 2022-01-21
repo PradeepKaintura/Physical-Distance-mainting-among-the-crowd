@@ -8,7 +8,7 @@
 
 - [`opencv`](https://github.com/opencv/opencv-python) - `pip install opencv-python`
 - [`imutils`](https://github.com/PyImageSearch/imutils) - `pip install imutils`
--- [`numpy`](https://github.com/numpy/numpy) - `pip install numpy`
+- [`numpy`](https://github.com/numpy/numpy) - `pip install numpy`
 
 
 # Modules
